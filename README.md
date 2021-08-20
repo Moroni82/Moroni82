@@ -7,9 +7,7 @@ I'm 21 years old full stack web developer 🌏, in love with programming. I'like
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **
-  Linkedin: www.linkedin.com/in/agustin-moroni
-  Email: agus-234@hotmail.com**
+- 📫 How to reach me **Email: agus-234@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
