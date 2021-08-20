@@ -1,16 +1,15 @@
-### Hi there 👋
+                          Hi there, I'm Agustin! 👋
 
-<!--
-**Moroni82/Moroni82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                
+     I'm 21 years old full stack web developer 🌏, in love with programming.
+     I'like to interact and learn from people who push my limits, indirectly,
+     putting life in hard mode, so i can expanding my knowledge every day.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on On The Rocks e-commerce
+- 🌱 I’m currently learning Python
+
+- 📫 How to reach me: 
+- Linkedin: www.linkedin.com/in/agustin-moroni
+- Email: agus-234@hotmail.com
 -->
