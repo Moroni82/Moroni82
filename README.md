@@ -2,10 +2,7 @@
 <h3 align="center">
 I'm 21 years old full stack web developer 🌏, in love with programming. I'like to interact and learn from people who push my limits, indirectly, putting life in hard mode, so i can expanding my knowledge every day.
 </h3>
-
-- 🔭 I’m currently working on <a href="https://on-the-rocks.vercel.app/" target="blank"> **On The Rocks e-commerce** <a/>
-
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **docker**
 
 - 📫 How to reach me **Email: agus-234@hotmail.com**
 
